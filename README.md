@@ -1,0 +1,2 @@
+# mycode
+First use GitHub.
